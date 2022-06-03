@@ -1,0 +1,8 @@
+{
+  "name": "luxury_booking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "44f2baff"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "luxury_booking",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
